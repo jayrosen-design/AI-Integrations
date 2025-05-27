@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15529834.svg)](https://doi.org/10.5281/zenodo.15529834)
+
 # AI Integrations Workshop
 
 As part of our commitment to supporting faculty, staff, and students, our team at E-Learning, Technology and Communications (ETC) is providing the 2025 Lunchtime Workshop Series to highlight innovative strategies, UF-specific resources, and best practices to enhance your work.
